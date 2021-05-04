@@ -18,7 +18,7 @@ game.resources = [
     { name: "clouds",          type:"image",   src: "data/img/clouds.png" },
 	// our level tileset
 	{name: "area01_level_tiles",  type:"image",	src: "data/img/map/tileset.png"},
-
+	{name: "area01_level_tiles",  type:"tsx",	src: "data/map/area01-level_tiles.tsx"},
 	/*
 	 * Maps.
  	 */
